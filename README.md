@@ -4,6 +4,7 @@
 A collection of useful Python scripts to automate annoying tasks and speed up your workflow. Built for devs who want results, not rituals.
 
 ---
+---
 
 ## Scripts Included
 
@@ -52,8 +53,6 @@ python SFML_setup.py
 ```
 Follow the prompts. That’s it. You’ll have a ready-to-run SFML project.
 
----
-
 ## Folder Structure (after SFML setup)
 ```
 YourProject/
@@ -72,13 +71,8 @@ YourProject/
 Feel free to copy, modify, and use.
 
 ---
+---
 
 ## Contribute 🤝
 
 Got more script ideas? Found a bug? Drop a PR or open an issue.
-
----
-
-## Author
-
-Made by [@hafabdulla](https://github.com/hafabdulla)
